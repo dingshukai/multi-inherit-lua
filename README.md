@@ -7,4 +7,4 @@ An OOP module in lua,  supporting multi inheritance.
 
 一共100行左右的代码，可以自行修改。
 
-性能上没有测试过。
+不建议直接在生产代码中使用。
